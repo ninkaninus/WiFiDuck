@@ -36,7 +36,7 @@
 #define BOOT_MAGIC_NUM    1234567890
 
 /*! ===== WiFi Settings ===== */
-#define WIFI_SSID "wifiduck"
+#define WIFI_SSID "Duck"
 #define WIFI_PASSWORD "wifiduck"
 #define WIFI_CHANNEL "1"
 
